@@ -1,0 +1,29 @@
+_repo: The-Girls-of-Central-High-on-the-StageThe-Play-That-Took-The-Prize_37303
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, Gertrude W.
+    gutenberg_agent_id: '2659'
+    url: http://www.gutenberg.org/2009/agents/2659
+description: How the girls went in for theatricals and how one of them wrote a play
+  which afterward was made over for the professional stage and brought in some much-needed
+  money.
+gutenberg_issued: '2011-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Theater -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+title: The Girls of Central High on the Stage; Or, The Play That Took The Prize
+url: http://www.gutenberg.org/ebooks/37303
